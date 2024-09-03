@@ -3,4 +3,4 @@ A Python script that continuously monitors an API for set by user condition and 
 
 Install Pyton
 
-Type in the terminal from the project folder "python3 api-slot-alert.py"
+Type in the terminal from the project folder "python3 api-slot-alert.py" to run the script.
